@@ -13,4 +13,4 @@ for el in lista:
 print("-" * 40)
 
 for i, el in enumerate(lista):
-    print(el)
+    print(i, el)
